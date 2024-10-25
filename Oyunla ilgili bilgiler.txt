@@ -1,0 +1,6 @@
+F---> Ok atar, dururken ok atabilirsiniz. Zıplarken veya hareket ederken atamazsınız.
+AD veya sağ-sol yön tuşları-----> Hareket
+Space-------> Zıplama(2 kere basarak çift zıplayabilir.)
+
+Bölümlerin son düşmanını öldürdüğünüzde son düşmanla kapıştığınız alanda bir portal ortaya çıkar. O portala geldiğinizde diğer bölüme geçebilirsiniz.
+
